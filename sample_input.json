@@ -1,0 +1,9 @@
+{
+  "documents": [
+    "research_paper_1.pdf",
+    "research_paper_2.pdf",
+    "research_paper_3.pdf"
+  ],
+  "persona": "PhD Researcher in Computational Biology",
+  "job": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks for graph neural networks in drug discovery"
+}
